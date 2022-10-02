@@ -11,6 +11,8 @@ export default {
   name: 'App',
   components: {
     // HomePage
+    // this is my first commit
+    
   }
 }
 </script>
@@ -23,6 +25,7 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   /* text-align: center; */
   margin-top: 60px;
+  margin-top: auto;
   color:#212f3d
 }
 </style>
